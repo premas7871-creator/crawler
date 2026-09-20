@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Amul store",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "721131",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Midnapore Division",
+    "major_offices": "Hour SO, Amdan BO, Dangalsa BO",
+    "phone_number": "+91 83272 52705",
+    "website": "https://amul.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "9M75+7JR, Purul, West Bengal 721131",
+    "area": "721131",
+    "latitude": 22.3631897,
+    "longitude": 87.6597365,
+    "place_id": "ChIJvdsd71uxAjoRJ2jVAsdosCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdsd71uxAjoRJ2jVAsdosCc",
+    "part_id": "part_321",
+    "crawled_at": "2026-09-20 20:27:36"
+  }
+]

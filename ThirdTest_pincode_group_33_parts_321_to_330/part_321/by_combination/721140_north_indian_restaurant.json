@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "721140",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Midnapore Division",
+    "major_offices": "Pingla SO, Aknageria BO, Barageria BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 66,
+    "address": "5M6V+H7W, Nimkimohar, West Bengal 721161",
+    "area": "721140",
+    "latitude": 22.1614978,
+    "longitude": 87.6932124,
+    "place_id": "ChIJ711yD3XJAjoRxWh6ysbcR74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ711yD3XJAjoRxWh6ysbcR74",
+    "part_id": "part_321",
+    "crawled_at": "2026-09-20 20:32:22"
+  }
+]
