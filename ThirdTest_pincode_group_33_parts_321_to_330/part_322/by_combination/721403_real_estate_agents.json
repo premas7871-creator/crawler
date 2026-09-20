@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "City Realtors",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Condominium complex",
+    "pincode": "721403",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Contai Division",
+    "major_offices": "Contai Bazar SO",
+    "phone_number": "+91 98320 57757",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PC38+MW4, Fire Brigade Rd, Ward 9, Khalpara, Siliguri, West Bengal 734005",
+    "area": "Ward 9, Khalpara",
+    "latitude": 26.704146299999998,
+    "longitude": 88.4173309,
+    "place_id": "ChIJ4cDUOGZB5DkRf0kHWf8mG5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4cDUOGZB5DkRf0kHWf8mG5s",
+    "part_id": "part_322",
+    "crawled_at": "2026-09-20 20:30:25"
+  }
+]

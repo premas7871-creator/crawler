@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Amul",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Store",
+    "all_categories": "Store, Ice cream shop",
+    "pincode": "721401",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Contai Division",
+    "major_offices": "Contai HO, Ajodhyapur BO, Bahitrakunda BO",
+    "phone_number": "+91 1800 258 3333",
+    "website": "https://amul.com/",
+    "rating": 4.1,
+    "reviews_count": 93,
+    "address": "Dhandighi, Contai, West Bengal 721404",
+    "area": "Dhandighi",
+    "latitude": 21.7769768,
+    "longitude": 87.73439839999999,
+    "place_id": "ChIJSYKzIFkmAzoRxTcdq1vad5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSYKzIFkmAzoRxTcdq1vad5Y",
+    "part_id": "part_322",
+    "crawled_at": "2026-09-20 20:28:05"
+  }
+]

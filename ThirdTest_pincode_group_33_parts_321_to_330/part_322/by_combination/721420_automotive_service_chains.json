@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "GoCarService",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "721420",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Contai Division",
+    "major_offices": "Baita Bazar SO, Alangiri BO, Jerthan BO",
+    "phone_number": "+91 3214 569 875",
+    "website": "https://gocarservice.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "95, GT Rd, Bally, Howrah, West Bengal 711201",
+    "area": "Bally",
+    "latitude": 22.645896,
+    "longitude": 88.35037539999999,
+    "place_id": "ChIJp0onrHWd-DkRLJ5PiVw5woU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp0onrHWd-DkRLJ5PiVw5woU",
+    "part_id": "part_322",
+    "crawled_at": "2026-09-20 20:33:27"
+  }
+]

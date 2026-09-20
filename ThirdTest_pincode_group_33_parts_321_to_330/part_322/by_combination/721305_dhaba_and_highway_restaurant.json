@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Das Hotel",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "721305",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Midnapore Division",
+    "major_offices": "Inda SO, Harishpur BO, Matkatpur BO",
+    "phone_number": "+91 94348 07586",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 425,
+    "address": "NH 60, Hosenabad, West Bengal 721101",
+    "area": "721305",
+    "latitude": 22.4166964,
+    "longitude": 87.3401569,
+    "place_id": "ChIJ2Y4TNihbHToRb6GyJFjuDoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Y4TNihbHToRb6GyJFjuDoQ",
+    "part_id": "part_322",
+    "crawled_at": "2026-09-20 20:26:32"
+  }
+]
