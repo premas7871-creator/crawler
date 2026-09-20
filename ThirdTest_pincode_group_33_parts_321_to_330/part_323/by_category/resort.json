@@ -4462,5 +4462,29 @@
     "part_id": "part_323",
     "crawled_at": "2026-09-20 20:46:43",
     "s_no": 48935
+  },
+  {
+    "business_name": "Signature Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "721637",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Tamluk Division",
+    "major_offices": "Abasbari SO",
+    "phone_number": "+91 82610 07076",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 146,
+    "address": "Surabardi Rd, Drugdhamna, Nagpur, Maharashtra 440021",
+    "area": "721637",
+    "latitude": 21.161284,
+    "longitude": 78.947238,
+    "place_id": "ChIJHfsqEQDr1DsRjBCJe_D8frs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfsqEQDr1DsRjBCJe_D8frs",
+    "part_id": "part_323",
+    "crawled_at": "2026-09-20 20:47:26",
+    "s_no": 51638
   }
 ]
