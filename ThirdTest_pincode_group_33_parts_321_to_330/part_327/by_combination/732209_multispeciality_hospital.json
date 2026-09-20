@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Health Point Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Doctor",
+    "pincode": "732209",
+    "circle": "West Bengal Circle",
+    "region": "North Bengal Region",
+    "division": "Malda Division",
+    "major_offices": "Sovanagar SO, Bhabanipur BO, Gopalpur BO",
+    "phone_number": "+91 62922 06001",
+    "website": "http://www.healthpointhospital.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "21, Prannath Pandit St, Lansdown, Paddapukur, Bhowanipore, Kolkata, West Bengal 700020",
+    "area": "Lansdown, Paddapukur, Bhowanipore",
+    "latitude": 22.5310295,
+    "longitude": 88.3534437,
+    "place_id": "ChIJw7NEKiV3AjoRpBWzlGCdwC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7NEKiV3AjoRpBWzlGCdwC8",
+    "part_id": "part_327",
+    "crawled_at": "2026-09-20 20:25:38"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Food Court",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Middle Eastern restaurant",
+    "pincode": "732142",
+    "circle": "West Bengal Circle",
+    "region": "North Bengal Region",
+    "division": "Malda Division",
+    "major_offices": "Mangalbari SO, Bachamari BO, Madhaipur BO",
+    "phone_number": "+91 95932 00567",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 240,
+    "address": "Netaji Subhash Rd, Netaji More, Malda, West Bengal 732101",
+    "area": "Netaji More",
+    "latitude": 25.0008384,
+    "longitude": 88.14707,
+    "place_id": "ChIJLcoFw8L9-jkR3Ta1QnOrWPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcoFw8L9-jkR3Ta1QnOrWPc",
+    "part_id": "part_327",
+    "crawled_at": "2026-09-20 20:19:17"
+  }
+]
