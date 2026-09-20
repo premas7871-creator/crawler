@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Chandan Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company, Service establishment",
+    "pincode": "731101",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Birbhum Division",
+    "major_offices": "Suri HO, BCollectorate SO, Baruipara SO Birbhum",
+    "phone_number": "+91 94741 26924",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chandan Bakery, 731101, India",
+    "area": "731101",
+    "latitude": 23.9222619,
+    "longitude": 87.52617099999999,
+    "place_id": "ChIJjV1yc4xZ9zkRGU6JCF2Qe4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjV1yc4xZ9zkRGU6JCF2Qe4U",
+    "part_id": "part_325",
+    "crawled_at": "2026-09-20 20:47:22"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Sushil Icecream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "731103",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Birbhum Division",
+    "major_offices": "Barabagan SO, Baraalunda BO, Baram BO",
+    "phone_number": "+91 70019 50432",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jhankar, Kalipur, West Bengal 731103",
+    "area": "731103",
+    "latitude": 23.9028718,
+    "longitude": 87.5115403,
+    "place_id": "ChIJBb2Go1hZ9zkRbpOZbxzdQ1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBb2Go1hZ9zkRbpOZbxzdQ1k",
+    "part_id": "part_325",
+    "crawled_at": "2026-09-20 20:48:42"
+  }
+]

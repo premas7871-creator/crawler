@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Akash Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "723201",
+    "circle": "West bengal circle",
+    "region": "South Bengal Region",
+    "division": "Purulia Division",
+    "major_offices": "Arsha BO, Barabendya BO, Barametyala BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "C65J+X99, Sindri, West Bengal 723103",
+    "area": "723201",
+    "latitude": 23.4094661,
+    "longitude": 86.2314591,
+    "place_id": "ChIJp88JWhEr9DkRNPlSVvlG4no",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp88JWhEr9DkRNPlSVvlG4no",
+    "part_id": "part_325",
+    "crawled_at": "2026-09-20 20:44:19"
+  }
+]

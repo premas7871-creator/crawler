@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "FAST FOOD CORNER",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "723155",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Purulia Division",
+    "major_offices": "Para SO, Bhawridih BO, Chitra BO",
+    "phone_number": "+91 80161 33485",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 20,
+    "address": "Anara, Chapari, West Bengal 723126",
+    "area": "Anara",
+    "latitude": 23.4859388,
+    "longitude": 86.55964829999999,
+    "place_id": "ChIJQaFSDeCM9jkR6falH4veVkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQaFSDeCM9jkR6falH4veVkk",
+    "part_id": "part_325",
+    "crawled_at": "2026-09-20 20:42:36"
+  }
+]
