@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Dev Dresses",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store, Shoe store, Clothing store",
+    "pincode": "721431",
+    "circle": "West bengal circle",
+    "region": "South Bengal Region",
+    "division": "Contai Division",
+    "major_offices": "Baratala BO, Boga BO, Gopichak BO",
+    "phone_number": "+91 96419 88858",
+    "website": "https://devdresses.mohitag10105.workers.dev/",
+    "rating": 4.5,
+    "reviews_count": 30,
+    "address": "Gurudwara Road, ShalBagan, Benachity, Durgapur, West Bengal 713213",
+    "area": "ShalBagan, Benachity",
+    "latitude": 23.5603011,
+    "longitude": 87.280281,
+    "place_id": "ChIJW2CaaI1t9zkRrtXM3wfEejI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2CaaI1t9zkRrtXM3wfEejI",
+    "part_id": "part_322",
+    "crawled_at": "2026-09-20 20:41:36"
+  }
+]

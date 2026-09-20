@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Jana enterprise",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Grill",
+    "all_categories": "Grill",
+    "pincode": "721434",
+    "circle": "West bengal circle",
+    "region": "South Bengal Region",
+    "division": "Contai Division",
+    "major_offices": "Barmakhal BO, Dhankrabanka BO, Maisali BO",
+    "phone_number": "+91 81452 37779",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gopalsingpur, Manglamaro, West Bengal 721434",
+    "area": "721434",
+    "latitude": 22.0777698,
+    "longitude": 87.6136016,
+    "place_id": "ChIJq0wpRvfNAjoR3PbjyHg081c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0wpRvfNAjoR3PbjyHg081c",
+    "part_id": "part_322",
+    "crawled_at": "2026-09-20 20:43:50"
+  }
+]
