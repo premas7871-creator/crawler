@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Tea Leaf Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Resort hotel",
+    "pincode": "734005",
+    "circle": "West Bengal Circle",
+    "region": "North Bengal Region",
+    "division": "Darjeeling Division",
+    "major_offices": "Siliguri Bazar SO, Jyotinagar BO",
+    "phone_number": "+91 94340 16526",
+    "website": "http://www.tealeafresort.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Bypass, near Biskfirm, Angul, Fulbari, Mahammadbaksa, West Bengal 734434",
+    "area": "Angul",
+    "latitude": 26.6418653,
+    "longitude": 88.38012169999999,
+    "place_id": "ChIJ_4G4AGJE5DkRGwm1QUD5rqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_4G4AGJE5DkRGwm1QUD5rqU",
+    "part_id": "part_328",
+    "crawled_at": "2026-09-20 20:18:53"
+  }
+]
