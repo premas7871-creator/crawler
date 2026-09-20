@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Nisaat medical store",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "731218",
+    "circle": "West Bengal Circle",
+    "region": "Kolkata Region",
+    "division": "Birbhum Division",
+    "major_offices": "Mayureswar SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dunigram Rd, bharsala para, Rampurhat, West Bengal 731224",
+    "area": "bharsala para",
+    "latitude": 24.181560599999997,
+    "longitude": 87.793246,
+    "place_id": "ChIJrSWT6hof-jkRItmbq5qXZKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrSWT6hof-jkRItmbq5qXZKM",
+    "part_id": "part_326",
+    "crawled_at": "2026-09-20 20:25:21"
+  }
+]

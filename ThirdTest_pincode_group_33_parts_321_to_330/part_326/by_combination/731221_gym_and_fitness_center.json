@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Naimuddin Shop",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "731221",
+    "circle": "West bengal circle",
+    "region": "Kolkata Region",
+    "division": "Birbhum Division",
+    "major_offices": "Bangsabati BO, Bonha BO, Dantura BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Harua, West Bengal 731221",
+    "area": "731221",
+    "latitude": 24.5257909,
+    "longitude": 87.9898205,
+    "place_id": "ChIJ0y9phFVH-jkRPoGpq2kX8bA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0y9phFVH-jkRPoGpq2kX8bA",
+    "part_id": "part_326",
+    "crawled_at": "2026-09-20 20:27:06"
+  }
+]
