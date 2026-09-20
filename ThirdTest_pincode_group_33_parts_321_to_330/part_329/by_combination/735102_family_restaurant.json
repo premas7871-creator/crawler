@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Food Hub",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "735102",
+    "circle": "West Bengal Circle",
+    "region": "North Bengal Region",
+    "division": "Jalpaiguri Division",
+    "major_offices": "JpgGovt Engg College SO, Chaulhati BO, Debnagar BO",
+    "phone_number": "+91 99339 96314",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 61,
+    "address": "Kadamtala Road, Near 3 No. Ghumti, opposite Shanti Glass House, Jalpaiguri, West Bengal 735101",
+    "area": "735102",
+    "latitude": 26.5220557,
+    "longitude": 88.7194859,
+    "place_id": "ChIJIfExudd55DkRruY_t60GgxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIfExudd55DkRruY_t60GgxI",
+    "part_id": "part_329",
+    "crawled_at": "2026-09-20 20:19:51"
+  }
+]
