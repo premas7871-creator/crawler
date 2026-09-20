@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "ali ticket shop",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Railway Ticket Agent",
+    "all_categories": "Railway Ticket Agent",
+    "pincode": "736133",
+    "circle": "West Bengal Circle",
+    "region": "North Bengal Region",
+    "division": "Cooch Behar Division",
+    "major_offices": "Baneswar SO, Ambari BO, Bhatlaguri BO",
+    "phone_number": "+91 70470 45847",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sonari, West Bengal 736133",
+    "area": "736133",
+    "latitude": 26.3855436,
+    "longitude": 89.4870023,
+    "place_id": "ChIJs6T1IMT54jkRYdD5dfN2mkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6T1IMT54jkRYdD5dfN2mkA",
+    "part_id": "part_330",
+    "crawled_at": "2026-09-20 20:21:54"
+  }
+]
