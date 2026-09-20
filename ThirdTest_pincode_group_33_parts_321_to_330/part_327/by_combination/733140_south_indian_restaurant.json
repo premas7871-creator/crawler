@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Ananya's Multicuisine Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Caterer, Chinese restaurant, Meal delivery",
+    "pincode": "733140",
+    "circle": "West Bengal Circle",
+    "region": "North Bengal Region",
+    "division": "Dinajpur Division",
+    "major_offices": "Rampur SO South Dinajpur, Bandighi BO, Deor BO",
+    "phone_number": "+91 74074 05555",
+    "website": "https://ananyasrestaurant.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Ground floor, ADDA 3rd Administrative Building, City Center, Durgapur, West Bengal 713216",
+    "area": "City Center",
+    "latitude": 23.537505,
+    "longitude": 87.2962757,
+    "place_id": "ChIJA8kIVBty9zkRdOR1HLj4lGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA8kIVBty9zkRdOR1HLj4lGI",
+    "part_id": "part_327",
+    "crawled_at": "2026-09-20 20:38:06"
+  }
+]

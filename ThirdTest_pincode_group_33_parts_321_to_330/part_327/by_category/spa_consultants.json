@@ -70,5 +70,29 @@
     "part_id": "part_327",
     "crawled_at": "2026-09-20 20:27:19",
     "s_no": 30357
+  },
+  {
+    "business_name": "West Bengal 734002",
+    "search_category": "Spa Consultants",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "734002",
+    "circle": "West Bengal Circle",
+    "region": "North Bengal Region",
+    "division": "Darjeeling Division",
+    "major_offices": "Salbari SO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "West Bengal",
+    "area": "734002",
+    "latitude": 26.7655991,
+    "longitude": 88.3837507,
+    "place_id": "ChIJ0c8ZQkBH5DkREcPKRCrXdLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0c8ZQkBH5DkREcPKRCrXdLk",
+    "part_id": "part_327",
+    "crawled_at": "2026-09-20 20:47:20",
+    "s_no": 71718
   }
 ]

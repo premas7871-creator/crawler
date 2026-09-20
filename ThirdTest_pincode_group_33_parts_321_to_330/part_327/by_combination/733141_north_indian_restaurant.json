@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Tushar",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Mughlai restaurant",
+    "all_categories": "Mughlai restaurant",
+    "pincode": "733141",
+    "circle": "West Bengal Circle",
+    "region": "North Bengal Region",
+    "division": "Dinajpur Division",
+    "major_offices": "Gopalganj SO, Angina BO, Ashokegram BO",
+    "phone_number": "01786-861511",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5250, Bangladesh",
+    "area": "733141",
+    "latitude": 25.6104417,
+    "longitude": 88.8670674,
+    "place_id": "ChIJJWRCstCt_DkRvUePDcQIFAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWRCstCt_DkRvUePDcQIFAw",
+    "part_id": "part_327",
+    "crawled_at": "2026-09-20 20:38:41"
+  }
+]
