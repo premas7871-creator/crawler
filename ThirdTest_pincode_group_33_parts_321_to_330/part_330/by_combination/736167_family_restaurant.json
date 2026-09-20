@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Sanjoy Resturant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "736167",
+    "circle": "West Bengal Circle",
+    "region": "North Bengal Region",
+    "division": "Cooch Behar Division",
+    "major_offices": "Sitaihat SO, Brahmottar Chatra BO, Chamta BO",
+    "phone_number": "+91 82500 74263",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 8,
+    "address": "Sitai Bazer Road,Sitai, 26, Sitai Road, Nagarsitai, West Bengal 736167",
+    "area": "736167",
+    "latitude": 26.0635461,
+    "longitude": 89.2994315,
+    "place_id": "ChIJublIL20Z4zkR-GyyOiNwtXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJublIL20Z4zkR-GyyOiNwtXw",
+    "part_id": "part_330",
+    "crawled_at": "2026-09-20 20:29:51"
+  }
+]

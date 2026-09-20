@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Eva Stores",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop, Sweet shop",
+    "pincode": "736170",
+    "circle": "West Bengal Circle",
+    "region": "North Bengal Region",
+    "division": "Cooch Behar Division",
+    "major_offices": "Ghughumari SO, Dudherkuthi Dewanbash BO, Guriahati BO",
+    "phone_number": "+91 99323 52768",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "Dinhata Rd, New Town, Road, Dinhata, Cooch Behar, West Bengal 736101",
+    "area": "New Town, Road",
+    "latitude": 26.309636899999997,
+    "longitude": 89.450008,
+    "place_id": "ChIJC3IhcZT94jkRzBbDUk0QzJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3IhcZT94jkRzBbDUk0QzJ4",
+    "part_id": "part_330",
+    "crawled_at": "2026-09-20 20:32:00"
+  }
+]

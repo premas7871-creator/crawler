@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Sunil Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "736167",
+    "circle": "West Bengal Circle",
+    "region": "North Bengal Region",
+    "division": "Cooch Behar Division",
+    "major_offices": "Sitaihat SO, Brahmottar Chatra BO, Chamta BO",
+    "phone_number": "+91 75869 93555",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Gidharibazar, Sitai, West Bengal 736167",
+    "area": "736167",
+    "latitude": 26.046476499999997,
+    "longitude": 89.3636592,
+    "place_id": "ChIJH-i1nkAf4zkR0MoaGnDetnM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-i1nkAf4zkR0MoaGnDetnM",
+    "part_id": "part_330",
+    "crawled_at": "2026-09-20 20:29:47"
+  }
+]
