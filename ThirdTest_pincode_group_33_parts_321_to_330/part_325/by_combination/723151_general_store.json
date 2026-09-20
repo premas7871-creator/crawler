@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Dan Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "723151",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Purulia Division",
+    "major_offices": "Puncha SO, Badra BO, Bagda BO",
+    "phone_number": "+91 62973 44841",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Puncha, Purulia, West Bengal 723151",
+    "area": "723151",
+    "latitude": 23.1588277,
+    "longitude": 86.6521185,
+    "place_id": "ChIJTSvEC4xd9jkRLWBkapU-clE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSvEC4xd9jkRLWBkapU-clE",
+    "part_id": "part_325",
+    "crawled_at": "2026-09-20 20:38:38"
+  }
+]
