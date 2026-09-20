@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Web world",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Airline ticket agency",
+    "all_categories": "Airline ticket agency, Car leasing service",
+    "pincode": "721628",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Tamluk Division",
+    "major_offices": "Mahisadal SO, Amritberia BO, Bamunia BO",
+    "phone_number": "+91 81012 58669",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Barsundra, Haldia, West Bengal 721654",
+    "area": "721628",
+    "latitude": 22.1137575,
+    "longitude": 88.0095778,
+    "place_id": "ChIJQVrRYZPvAjoRhCHKMlSwqco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVrRYZPvAjoRhCHKMlSwqco",
+    "part_id": "part_323",
+    "crawled_at": "2026-09-20 20:41:45"
+  }
+]

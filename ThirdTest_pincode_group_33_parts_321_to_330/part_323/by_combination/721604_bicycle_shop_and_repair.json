@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Das Cycle Repair",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "721604",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Tamluk Division",
+    "major_offices": "Haldia SO",
+    "phone_number": "+91 90831 92467",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Babaji Basa, City Centre, Road, Bhabanipur, Haldia, West Bengal 721657",
+    "area": "Bhabanipur",
+    "latitude": 22.0598027,
+    "longitude": 88.0728729,
+    "place_id": "ChIJ52KOfyPxAjoRNyZPoejSCHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52KOfyPxAjoRNyZPoejSCHk",
+    "part_id": "part_323",
+    "crawled_at": "2026-09-20 20:36:40"
+  }
+]

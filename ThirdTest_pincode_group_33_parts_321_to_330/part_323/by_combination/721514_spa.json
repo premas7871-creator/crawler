@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Ranjit",
+    "search_category": "Spa",
+    "primary_category": "Day spa",
+    "all_categories": "Day spa",
+    "pincode": "721514",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Midnapore Division",
+    "major_offices": "Sevayatan SO, Bandgora BO, Birihandi BO",
+    "phone_number": "+91 80013 25263",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vill-Bhatmore, p.o- MOUPAL, West Bengal 721516",
+    "area": "721514",
+    "latitude": 22.5461006,
+    "longitude": 87.2181511,
+    "place_id": "ChIJHblzOTVhHToR3me-h2aqqrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHblzOTVhHToR3me-h2aqqrs",
+    "part_id": "part_323",
+    "crawled_at": "2026-09-20 20:31:42"
+  }
+]

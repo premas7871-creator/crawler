@@ -1,0 +1,25 @@
+[
+  {
+    "business_name": "Medical shop",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "721515",
+    "circle": "West Bengal Circle",
+    "region": "South Bengal Region",
+    "division": "Midnapore Division",
+    "major_offices": "Silda SO, Ashakanthi BO, Bhangabandh BO",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JRGF+24, Parusali, West Bengal 721515",
+    "area": "721515",
+    "latitude": 22.6246564,
+    "longitude": 86.822653,
+    "place_id": "ChIJ_0_eZgAr9jkR-CSe_NbE0Xw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0_eZgAr9jkR-CSe_NbE0Xw",
+    "part_id": "part_323",
+    "crawled_at": "2026-09-20 20:32:18"
+  }
+]
